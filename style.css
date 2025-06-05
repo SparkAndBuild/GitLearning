@@ -1,0 +1,17 @@
+
+/* Title - class selector */
+.title{
+    color: gold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+/* Background - class selector */
+.bg{
+    background-color: black;
+}
+
+/* Universal selector */
+*{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
