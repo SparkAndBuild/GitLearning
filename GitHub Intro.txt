@@ -1,0 +1,41 @@
+GitHub Docs
+https://git-scm.com/docs
+
+GitHub Account
+GitHub.com
+
+Install Git
+https://git-scm.com/
+
+Configure Git
+Username
+git config --global user.name
+Email
+git config --global user.email
+
+Check Configuration
+git config user.name
+git config user.email
+
+Add all files 
+git add .
+
+Add specific files
+git add filename.html
+
+Check current directory
+pwd
+
+Check status
+git status
+
+Commit changes
+git commit -m "Your message"
+
+Push changes to the remote repository
+git push origin branch-name
+
+Git Clone 
+git clone https://github.com/SparkAndBuild/GitLearning.git
+
+
